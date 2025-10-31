@@ -39,7 +39,7 @@ h1{
     grid-template-rows: 2fr 3fr 1fr;
 }
 
-.grid div{
+.grid div, .grid-pixeles div{
 	display: block;
 	padding: 20px;
 	color: #fff;
